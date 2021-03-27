@@ -21,10 +21,10 @@ public class Hash {
         //Hash 값 계산
 
         double hash = arr[0] * Math.pow(31, 4)
-                + arr[1] * Math.pow(31, 3)
-                + arr[2] * Math.pow(31, 2)
-                + arr[3] * Math.pow(31, 1)
-                + arr[4] * Math.pow(31, 0);
+                      + arr[1] * Math.pow(31, 3)
+                      + arr[2] * Math.pow(31, 2)
+                      + arr[3] * Math.pow(31, 1)
+                      + arr[4] * Math.pow(31, 0);
 
         // 결과 출력
 
