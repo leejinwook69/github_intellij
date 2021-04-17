@@ -1,3 +1,5 @@
+package src;
+
 class Subway {
     int line;
      void run()

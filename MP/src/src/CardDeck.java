@@ -1,4 +1,4 @@
-import java.awt.*;
+package src;
 
 class Deck {
 
