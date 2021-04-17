@@ -32,6 +32,7 @@ public class CardDeck {
         one.num();
         one.deal();
         one.num();
+        one.deal();
 
     }
 
