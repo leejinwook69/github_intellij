@@ -1,6 +1,6 @@
 class Iam {
     int i = 10;
-    int Iam() {return i;}
+    static int Iam() {return this.i;}
 }
 
 public class Prac07 {
