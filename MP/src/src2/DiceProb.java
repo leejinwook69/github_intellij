@@ -1,3 +1,5 @@
+package src2;
+
 class Dice {
     int roll() {
         return ((int)Math.floor((Math.random() * 6)) + 1);
