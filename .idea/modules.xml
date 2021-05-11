@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MP/MP.iml" filepath="$PROJECT_DIR$/MP/MP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MP07/MP07.iml" filepath="$PROJECT_DIR$/MP07/MP07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParentChild/ParentChild.iml" filepath="$PROJECT_DIR$/ParentChild/ParentChild.iml" />
       <module fileurl="file://$PROJECT_DIR$/github_intellij.iml" filepath="$PROJECT_DIR$/github_intellij.iml" />
     </modules>
   </component>
