@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CoffeeMachineException/CoffeeMachineException.iml" filepath="$PROJECT_DIR$/CoffeeMachineException/CoffeeMachineException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/MP/MP.iml" filepath="$PROJECT_DIR$/MP/MP.iml" />
       <module fileurl="file://$PROJECT_DIR$/MP07/MP07.iml" filepath="$PROJECT_DIR$/MP07/MP07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MP08/MP08.iml" filepath="$PROJECT_DIR$/MP08/MP08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MP09_1/MP09_1.iml" filepath="$PROJECT_DIR$/MP09_1/MP09_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm/Midterm.iml" filepath="$PROJECT_DIR$/Midterm/Midterm.iml" />
       <module fileurl="file://$PROJECT_DIR$/ParentChild/ParentChild.iml" filepath="$PROJECT_DIR$/ParentChild/ParentChild.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestImageViewer/TestImageViewer.iml" filepath="$PROJECT_DIR$/TestImageViewer/TestImageViewer.iml" />
       <module fileurl="file://$PROJECT_DIR$/github_intellij.iml" filepath="$PROJECT_DIR$/github_intellij.iml" />
     </modules>
   </component>
