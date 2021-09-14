@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CoffeeMachineException/CoffeeMachineException.iml" filepath="$PROJECT_DIR$/CoffeeMachineException/CoffeeMachineException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final/Final.iml" filepath="$PROJECT_DIR$/Final/Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOStream/IOStream.iml" filepath="$PROJECT_DIR$/IOStream/IOStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/MP/MP.iml" filepath="$PROJECT_DIR$/MP/MP.iml" />
       <module fileurl="file://$PROJECT_DIR$/MP07/MP07.iml" filepath="$PROJECT_DIR$/MP07/MP07.iml" />
